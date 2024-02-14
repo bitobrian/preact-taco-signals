@@ -18,7 +18,7 @@ export function App() {
 
 	return (
 		<div>
-			<a href="https://preactjs.com" target="_blank">
+			<a href="https://github.com/bitobrian/preact-taco-signals" target="_blank">
 				<img src={preactLogo} alt="Preact logo" height="160" width="160" />
 			</a>
 			<h1>Preact Signals</h1>
